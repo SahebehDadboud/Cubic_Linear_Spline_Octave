@@ -1,6 +1,5 @@
 %%linear interpolation
-%Sheet6-Exe5
-%Winter2016
+
 %
 
 x=[-1  -0.75  -0.5  -0.25   0.25  0.50 0.75  1];
