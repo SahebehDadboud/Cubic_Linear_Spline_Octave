@@ -1,6 +1,5 @@
 %Cubic_Spline_Interpolation
-%Sheet6-Exe6
-%Winter2016
+
 
 
 x = [1 1.5 2 4.1 5];
